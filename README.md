@@ -1,7 +1,4 @@
 ### [Zyneon Studios](https://www.zyneonstudios.com/) presents a [Zyneon Nexus](https://nexus.zyneonstudios.com) project:
-
--- -- -- -- --
-
 # NEXUS Launcher: an open source game launcher for Minecraft
 
 > __**Information**__
