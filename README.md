@@ -1,11 +1,7 @@
-### [Zyneon Studios](https://www.zyneonstudios.com/) presents a Zyneon Nexus project:
+### [Zyneon Studios](https://www.zyneonstudios.com/) presents a [Zyneon Nexus](https://nexus.zyneonstudios.com) project:
 
 ---
-
-# NEXUS Launcher
-An open source library to launch minecraft
-
----
+# NEXUS Launcher: an open source game launcher for Minecraft
 
 > __**Information**__
 > <br>This project serves as the backend for the NEXUS App Minecraft module. To use a comprehensive, stable and trustworthy Minecraft launcher, we recommend the NEXUS App - not this project.
@@ -17,4 +13,4 @@ An open source library to launch minecraft
 For security reasons, we recommend downloading this project only from https://github.com/zyneonstudios/nexus-launcher and https://nexus.zyneonstudios.com. We assume no liability for the program if it has been downloaded from elsewhere.
 </details>
 
-# W.I.P. (Work in progress...)
+# Work in progress...
